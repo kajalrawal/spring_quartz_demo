@@ -2,7 +2,7 @@
 A spring web application for quartz scheduling functionality which purpose is to schedule job. Here I'm referring email job scheduling at given time.
 
 
-**Complete Tutorial:** 
+**Complete Tutorial:** https://kajalrawal.medium.com/spring-boot-quartz-scheduler-example-email-scheduling-application-77598089a049
 
 ## Requirements
 
