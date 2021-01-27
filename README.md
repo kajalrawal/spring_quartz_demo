@@ -67,7 +67,7 @@ mvn spring-boot:run
 
 ```bash
 curl -i -H "Content-Type: application/json" -X POST \
--d '{"email":"callicoder@gmail.com","subject":"Things I wanna say to my Future self","body":"Dear Future me, <br><br> <b>Think Big And Don’t Listen To People Who Tell You It Can’t Be Done. Life’s Too Short To Think Small.</b> <br><br> Cheers, <br>Kajal Rawal !","dateTime":"2021-01-27T16:15:00","timeZone":"Asia/Kolkata"}' \
+-d '{"email":"kjlrawal9@gmail.com","subject":"Things I wanna say to my Future self","body":"Dear Future me, <br><br> <b>Think Big And Don’t Listen To People Who Tell You It Can’t Be Done. Life’s Too Short To Think Small.</b> <br><br> Cheers, <br>Kajal Rawal !","dateTime":"2021-01-27T16:15:00","timeZone":"Asia/Kolkata"}' \
 http://localhost:8080/scheduleEmail
 
 # Output
