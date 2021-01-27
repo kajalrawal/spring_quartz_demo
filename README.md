@@ -1,7 +1,6 @@
-# spring_quartz_demo
+# Spring Boot Quartz Scheduler Example: Building an Email Scheduling app
 A spring web application for quartz scheduling functionality which purpose is to schedule job. Here I'm referring email job scheduling at given time.
 
-# Spring Boot Quartz Scheduler Example: Building an Email Scheduling app
 
 **Complete Tutorial:** 
 
